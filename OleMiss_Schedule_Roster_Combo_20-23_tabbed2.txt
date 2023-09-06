@@ -1,0 +1,50 @@
+Date           	Season	Time     	At        	Opponent            	Location                       	Result   	Helmet	Jersey	Pants	Uniform Source
+Sep 26 (Sat)   	2020	11:00:00 AM	Home      	Florida             	"Oxford, Miss."	L 35-51  	Powder	Powder	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Oct 3 (Sat)    	2020	3:00:00 PM	Away      	Kentucky            	"Lexington, KY"	W 42-41  	Powder	White	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Oct 10 (Sat)   	2020	6:30:00 PM	Home      	Alabama             	"Oxford, Miss."	L 48-63  	Navy	Navy	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Oct 17 (Sat)   	2020	2:30:00 PM	Away      	Arkansas            	"Fayetteville, Ark.    "	L 21-33  	Powder	White	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Oct 24 (Sat)   	2020	11:00:00 AM	Home      	Auburn              	"Oxford, Miss."	L 28-35  	Navy	Red	Grey	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Oct 31 (Sat)   	2020	3:00:00 PM	Away      	Vanderbilt          	"Nashville, Tenn."	W 54-21  	Navy	White	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Nov 14 (Sat)   	2020	6:30:00 PM	Home      	South Carolina      	"Oxford, Miss."	W 59-42  	Powder	Powder	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Nov 28 (Sat)   	2020	3:00:00 PM	Home      	Mississippi State   	"Oxford, Miss."	W 31-24  	Navy	Navy	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Dec 12 (Sat)   	2020	TBD      	Away      	Texas A&M           	"Bryan-College Station, Texas"	Cancelled	n/a	n/a	n/a	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Dec 19 (Sat)   	2020	2:30:00 PM	Away      	LSU                 	"Baton Rouge, La."	L 48-53  	Powder	Powder	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Jan 2 (Sat)    	2020	11:30:00 AM	Neutral   	Indiana             	"Tampa, Fla."	W 26-20	Powder	White	White	https://www.facebook.com/OleMissUnis/photos/a.102303091717970/120291243252488/
+Sep 6 (Mon)    	2021	7:00:00 PM	Neutral   	Louisville          	"Atlanta, Ga."	W 43-24	Powder	Powder	White	n/a
+Sep 11 (Sat)   	2021	6:30:00 PM	Home      	Austin Peay         	"Oxford, Miss."	W 54-17	Navy	Navy	Grey	n/a
+Sep 18 (Sat)   	2021	7:00:00 PM	Home      	Tulane              	"Oxford, Miss."	W 61-21	Powder	Red	White	n/a
+Oct 2 (Sat)    	2021	2:30:00 PM	Away      	Alabama             	"Tuscaloosa, Ala."	L 21-42	Powder	White	Grey	n/a
+Oct 9 (Sat)    	2021	11:00:00 AM	Home      	Arkansas            	"Oxford, Miss."	W 52-51	Powder	Powder	White	n/a
+Oct 16 (Sat)   	2021	6:30:00 PM	Away      	Tennessee           	"Knoxville, Tenn."	W 31-26	Navy	White	White	n/a
+Oct 23 (Sat)   	2021	2:30:00 PM	Home      	LSU                 	"Oxford, Miss."	W 31-17	Powder	Powder	White	n/a
+Oct 30 (Sat)   	2021	6:00:00 PM	Away      	Auburn              	"Auburn, Ala."	L 20-31	Powder	White	White	n/a
+Nov 6 (Sat)    	2021	11:00:00 AM	Home      	Liberty             	"Oxford, Miss."	W 27-14	Navy	Navy	Grey	n/a
+Nov 13 (Sat)   	2021	6:00:00 PM	Home      	Texas A&M           	"Oxford, Miss."	W 29-19	Powder	Powder	White	n/a
+Nov 20 (Sat)   	2021	6:30:00 PM	Home      	Vanderbilt          	"Oxford, Miss."	W 31-17	Powder	Navy	Grey	n/a
+Nov 25 (Thu)   	2021	6:30:00 PM	Away      	Mississippi State   	"Starkville, Miss."	W 31-21	Navy	White	Grey	n/a
+Jan 1 (Sat)    	2021	7:45:00 PM	Neutral   	Baylor              	"New Orleans, La."	L 7-21	Powder	Powder	White	n/a
+Sep 3 (Sat)    	2022	3:00:00 PM	Home      	Troy                	"Oxford, Miss."	W 28-10	White	Navy	White	n/a
+Sep 10 (Sat)   	2022	6:00:00 PM	Home      	Central Arkansas    	"Oxford, Miss."	W 59-3 	Powder	Red	Grey	n/a
+Sep 17 (Sat)   	2022	2:30:00 PM	Away      	Georgia Tech        	"Atlanta, Ga."	W 42-0 	White	White	White	n/a
+Sep 24 (Sat)   	2022	3:00:00 PM	Home      	Tulsa               	"Oxford, Miss."	W 35-27	Navy	Navy	White	n/a
+Oct 1 (Sat)    	2022	11:00:00 AM	Home      	Kentucky            	"Oxford, Miss."	W 22-19	Camo	Powder	White	n/a
+Oct 8 (Sat)    	2022	3:00:00 PM	Away      	Vanderbilt          	"Nashville, Tenn."	W 52-28	Navy	White	White	n/a
+Oct 15 (Sat)   	2022	11:00:00 AM	Home      	Auburn              	"Oxford, Miss."	W 48-34	White	Powder	White	n/a
+Oct 22 (Sat)   	2022	2:30:00 PM	Away      	LSU                 	"Baton Rouge, La."	L 20-45	White	Red	White	n/a
+Oct 29 (Sat)   	2022	6:30:00 PM	Away      	Texas A&M           	"Bryan-College Station, Texas"	W 31-28	Powder	White	White	n/a
+Nov 12 (Sat)   	2022	2:30:00 PM	Home      	Alabama             	"Oxford, Miss."	L 24-30	Powder	Powder	White	n/a
+Nov 19 (Sat)   	2022	6:30:00 PM	Away      	Arkansas            	"Fayetteville, Ark.    "	L 27-42	Navy	White	Grey	n/a
+Nov 24 (Thu)   	2022	6:00:00 PM	Home      	Mississippi State   	"Oxford, Miss."	L 22-24	Navy	Navy	Grey	n/a
+Dec 28 (Wed)   	2022	8:00:00 PM	Neutral   	Texas Tech          	"Houston, Texas "	L 25-42	Powder	Powder	White	n/a
+Sep 2 (Sat)    	2023	1:00:00 PM	Home      	Mercer              	"Oxford, Miss."	W 73-7	White	Red	White	n/a
+Sep 9 (Sat)    	2023	2:30:00 PM	Away      	Tulane              	"New Orleans, La."	n/a	n/a	n/a	n/a	n/a
+Sep 16 (Sat)   	2023	6:30:00 PM	Home      	Georgia Tech        	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Sep 23 (Sat)   	2023	TBD      	Away      	Alabama             	"Tuscaloosa, Ala."	n/a	n/a	n/a	n/a	n/a
+Sep 30 (Sat)   	2023	TBD      	Home      	LSU                 	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Oct 7 (Sat)    	2023	TBD      	Home      	Arkansas            	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Oct 21 (Sat)   	2023	TBD      	Away      	Auburn              	"Auburn, Ala."	n/a	n/a	n/a	n/a	n/a
+Oct 28 (Sat)   	2023	TBD      	Home      	Vanderbilt          	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Nov 4 (Sat)    	2023	TBD      	Home      	Texas A&M           	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Nov 11 (Sat)   	2023	TBD      	Away      	Georgia             	"Athens, Ga."	n/a	n/a	n/a	n/a	n/a
+Nov 18 (Sat)   	2023	TBD      	Home      	ULM                 	"Oxford, Miss."	n/a	n/a	n/a	n/a	n/a
+Nov 23 (Thu)   	2023	6:30:00 PM	Away      	Mississippi State   	"Starkville, Miss."	n/a	n/a	n/a	n/a	n/a
